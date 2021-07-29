@@ -1,0 +1,73 @@
+html, body{
+    overflow-x: hidden;
+    max-width: 100%;
+}
+.header-button{
+    background-color: #E76F51;
+    border-radius: 5px;  
+    padding: 10px; 
+    margin-left: 100px;
+}
+.purchase-button{
+    background-color: #E76F51;
+    border-radius: 5px; 
+    width: 168px;
+    height: 52px; 
+    padding: 10px;
+    font-size: 20px;
+    border: 0;
+    
+}
+header{
+    background-color: #264653;
+}
+.feature > img{
+    width: 288px;
+    height: 243px;
+    
+}
+.img-gray{
+    filter: grayscale(100%);
+}
+.read-more-button{
+    width: 160px;
+    height: 57px;
+    background: #E76F51;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.btn-outline-primary{
+    width: 160px;
+    height: 57px;  
+    color: #E76F51 !important;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;  
+}
+.fa-star{
+    font-size: 18px;
+}
+.fa-star.filled {
+    color: #E76F51;
+}
+.fa-star.empty {
+    color: #E76F51;
+}
+.faq-image{
+    width: 431.2px;
+    height: 423.5px; 
+}
+.signup-form{
+    background-color: #E76F51;
+}
+.fab{
+    font-size: 50px;
+    color: #264653;
+}
+.payment{
+    margin: 5px;
+}
+.payment-bg{
+    background-color: floralwhite;
+}
